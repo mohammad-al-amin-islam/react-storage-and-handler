@@ -1,13 +1,10 @@
-import logo from './logo.svg';
 import './App.css';
-import Addition from './components/Addition/Addition';
-import Multiplication from './components/Multiplication/Multiplication';
+import Cosmetics from './components/Cosmetics/Cosmetics';
 
 function App() {
   return (
     <div className="App">
-      <Addition></Addition>
-      <Multiplication></Multiplication>
+      <Cosmetics></Cosmetics>
     </div>
   );
 }
